@@ -1,0 +1,65 @@
+.loginPage {
+  min-height: 100vh;
+  background: rgb(190, 44, 44);
+  padding: 50px 0px 50px 50px;
+}
+.nav-bar {
+  background: rgb(190, 44, 44);
+  padding: 10px 10px 10px 10px;
+}
+.NB {
+  min-height: 100vh;
+  background: rgb(190, 44, 44);
+  padding: 50px 0px 50px 50px;
+}
+
+.SD {
+  min-height: 100vh;
+  background: rgb(190, 44, 44);
+  padding: 10px 0px 50px 0px;
+}
+.center-text {
+  text-align: center;
+  font-family: fantasy;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.user-center-text {
+  width: 760px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: white;
+}
+
+input[type="text-login"] {
+  width: 20%;
+  padding: 12px 12px 12px 12px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+input[type="text-login"]:focus {
+  border: 3px solid rgb(160, 32, 32);
+}
+
+input[type="password"] {
+  width: 20%;
+  padding: 12px 12px 12px 12px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+input[type="password"]:focus {
+  border: 3px solid rgb(85, 85, 85);
+}
+
+#center {
+  width: 760px;
+  margin: 0 auto;
+}
