@@ -1,6 +1,3 @@
-<h1> I will upload the files as soon as possible.. </h1>
-<br/>
-<br/>
 <h1> Pharma-Point-Django-Django-REST-React-JS-Web-App </h1>
 <h3>‘Pharma Point’ is a web-app, through which users can get their medicine easy and fast. This is beneficial for both pharmacy and patients who are looking for medicine. This app routs the patient to the cheapest and best available medicine around his or her neighborhood. It uses shop rating with cheapest price drug as search and real time sorting to carry this out. This project is designed in a manner such that it can be deployed for commercial usage. </h3>
 <br/>
